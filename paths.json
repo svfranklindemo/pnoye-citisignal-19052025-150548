@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/:/",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/configuration:/.helix/config.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/metadata:/metadata.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/configs:/configs.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/configs-stage:/configs-stage.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/configs-dev:/configs-dev.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/redirects:/redirects.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/placeholders:/placeholders.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/products/recommended-products:/products/recommended-products.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/pnoye/pnoye-2025-5-19-17-5-44",
       "/content/dam/citisignal/images/products/"
     ]
 }
